@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Mousse Muse Lip Cream",
+    "shades": 11,
+    "price": 555,
+    "mrp": "599",
+    "club_price": "444",
+    "rating": "4.8",
+    "user_rated": 5,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Figma-banner-1-1-600x500-ezgif.com-optimize_1.gif?v=1718014347&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Mousse-Muse-Lip-Cream-01-Backlit-Nude.jpg?v=1719884217",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Mousse-Muse-Lip-Cream-01-Backlit-Nude-3.jpg?v=1719884281"
+  ]
+  },
+  {
+    "name": "Matte Attack Transferproof Lipstick",
+    "shades": 15,
+    "price": 749,
+    "mrp": "899",
+    "club_price": "599",
+    "rating": "4.8",
+    "user_rated": 711,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-Attack-Transferproof-Lipstick.jpg?v=1719855043&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-Attack-Transferproof-Lipstick-01-Boldplay-Cardinal-Pink-2.jpg?v=1719855142",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-Attack-Transferproof-Lipstick-01-Boldplay-Cardinal-Pink-3.jpg?v=1719855147"
+  ]
+  },
+  {
+    "name": "Matte As Hell Crayon Lipstick Minis Set of 3",
+    "shades": 15,
+    "price": 999,
+    "mrp": "1799",
+    "club_price": "799",
+    "rating": "4.8",
+    "user_rated": 5,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-Minis-Set-of-3.jpg?v=1719867590&w=640&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-Minis-Set-of-3-2.jpg?v=1719867593",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-Minis-Set-of-3-3.jpg?v=1719867598"
+  ]
+  },
+  {
+    "name": "Dream Cover SPF15 Mattifying Compact",
+    "shades": 4,
+    "price": 549,
+    "mrp": "999",
+    "club_price": "439",
+    "rating": "4.7",
+    "user_rated": 529,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Dream-Cover-SPF15-Mattifying-Compact.jpg?v=1719842368&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Dream-Cover-SPF15-Mattifying-Compact-10-Latte-light.jpg?v=1719842240",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Dream-Cover-SPF15-Mattifying-Compact-10-Latte-light-3.jpg?v=1719842250"
+  ]
+  },
+  {
+    "name": "Limited-Edition La La Love 18HR Liquid Lipstick - 08 Peach Passion",
+    "shades": 2,
+    "price": 299,
+    "mrp": "399",
+    "club_price": "239",
+    "rating": "4.8",
+    "user_rated": 15,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Limited-Edition-La-La-Love-18HR-Liquid-Lipstick.jpg?v=1719887950&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Limited-Edition-La-La-Love-18HR-Liquid-Lipstick-08-Peach-Passion.jpg?v=1719898586",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Limited-Edition-La-La-Love-18HR-Liquid-Lipstick-08-Peach-Passion-4.jpg?v=1719898599"
+  ]
+  },
+  {
+    "name": "Kohl Of Honour Intense Kajal - 01 Black Out (Black)",
+    "shades": 6,
+    "price": 249,
+    "mrp": "399",
+    "club_price": "199",
+    "rating": "4.7",
+    "user_rated": 1715,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Kohl-Of-Honour-Intense-Kajal.jpg?v=1719862065&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Kohl-Of-Honour-Intense-Kajal-01-Black-Out-Black.jpg?v=1719855885",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Kohl-Of-Honour-Intense-Kajal-01-Black-Out-Black-3.jpg?v=1719855893"
+  ]
+  },
+  {
+    "name": "Matte As Hell Crayon Lipstick - 01 Scarlett O'Hara (Red) | 2.8 gm",
+    "shades": 22,
+    "price": 849,
+    "mrp": "1199",
+    "club_price": "679",
+    "rating": "4.8",
+    "user_rated": 2715,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick.jpg?v=1719830473&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-01-Scarlett-OHara-Red.jpg?v=1719830830",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Matte-As-Hell-Crayon-Lipstick-01-Scarlett-OHara-Red-3.jpg?v=1719830837"
+  ]
+  },
+  {
+    "name": "Base Of Glory Pore Minimizing Primer",
+    "shades": 1,
+    "price": 849,
+    "mrp": "1199",
+    "club_price": "679",
+    "rating": "4.8",
+    "user_rated": 384,
+    "category": "bestseller",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Base-Of-Glory-Pore-Minimizing-Primer.jpg?v=1719841262&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Base-Of-Glory-Pore-Minimizing-Primer-2.jpg?v=1719841267",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Base-Of-Glory-Pore-Minimizing-Primer-3.jpg?v=1719841270"
+  ]
+  },
+  {
+    "name": "Rakhi Special Makeup Kit",
+    "shades": 1,
+    "price": 1699,
+    "mrp": "2245",
+    "club_price": "1359",
+    "rating": "4.8",
+    "user_rated": 384,
+    "category": "makeupkits",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Rakhi-Special-Makeup-Kit.jpg?v=1722336181&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Rakhi-Special-Makeup-Kit-2.jpg?v=1722336185",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Rakhi-Special-Makeup-Kit-3.jpg?v=1722336249"
+  ]
+  },
+  {
+    "name": "Vineeta's Favourite Makeup Kit",
+    "shades": 1,
+    "price": 2999,
+    "mrp": "3894",
+    "club_price": "2399",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "makeupkits",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Vineetas-Favourite-Makeup-Kit_5094e434-0af3-47be-8095-e09d590c2599.jpg?v=1720176178&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Vineetas-Favourite-Makeup-Kit-2_37606ca9-f95a-4f46-8378-379a2cd98931.jpg?v=1720176182",
+     "https://cdn.shopify.com/s/files/1/0906/2558/files/Vineetas-Favourite-Makeup-Kit-3_8ff87786-0a71-41ae-b4ce-86d151bf771e.jpg?v=1720176246"
+  ]
+  },
+  {
+    "name": "Wedding Makeup Kit by Tamannaah",
+    "shades": 1,
+    "price": 3499,
+    "mrp": "5745",
+    "club_price": "2799",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "makeupkits",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Wedding-Makeup-Kit-by-Tamannaah.jpg?v=1719892122&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Wedding-Makeup-Kit-by-Tamannaah-2.jpg?v=1719892125",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Wedding-Makeup-Kit-by-Tamannaah-3.jpg?v=1719892130"
+  ]
+  },
+  {
+    "name": "SUGAR Signature Makeup Kit",
+    "shades": 3,
+    "price": 1399,
+    "mrp": "1807",
+    "club_price": "1119",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "makeupkits",
+    "images": ["https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Signature-Makeup-Kit-2.jpg?v=1719901645",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Signature-Makeup-Kit-3.jpg?v=1719901649",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Signature-Makeup-Kit-3.jpg?v=1719901649"
+  ]
+  },
+  {
+    "name": "Blushin' & Poppin' Value Set",
+    "shades": 3,
+    "price": 1149,
+    "mrp": "1298",
+    "club_price": "919",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "makeupkits",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Blushin-Poppin-Value-Set.jpg?v=1719880199&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Blushin-Poppin-Value-Set-2.jpg?v=1719880203",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Blushin-Poppin-Value-Set-3.jpg?v=1719880208"
+  ]
+  },
+  {
+    "name": "SUGAR Play Power Drip Lip Gloss - 01 Mood",
+    "shades": 6,
+    "price": 399,
+    "mrp": "319",
+    "club_price": "919",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "exclusive",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Power-Drip-Lip-Gloss.jpg?v=1719893402&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Power-Drip-Lip-Gloss-01-Mood.jpg?v=1719893448",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Power-Drip-Lip-Gloss-01-Mood-3.jpg?v=1719893456"
+  ]
+  },
+  {
+    "name": "SUGAR Play Vibe Check Liquid Lipstick - 01 G.O.A.T",
+    "shades": 4,
+    "price": 499,
+    "mrp": "399",
+    "club_price": "919",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "exclusive",
+    "images": [ "https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Vibe-Check-Liquid-Lipstick.jpg?v=1719893862&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Vibe-Check-Liquid-Lipstick-01-G_O_A_T-3.jpg?v=1719893907",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Smooth-Operator-Lip-Crayon-01-MLBB-4.jpg?v=1719899841"
+  ]
+  },
+  {
+    "name": "SUGAR Play Smooth Operator Lip Crayon - 01 MLBB",
+    "shades": 5,
+    "price": 599,
+    "mrp": "479",
+    "club_price": "919",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "exclusive",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Smooth-Operator-Lip-Crayon.jpg?v=1719899956&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Smooth-Operator-Lip-Crayon-01-MLBB-3.jpg?v=1719899836",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Smooth-Operator-Lip-Crayon-01-MLBB-4.jpg?v=1719899841"
+  ]
+  },
+  {
+    "name": "SUGAR Play High Key Chrome Eyeshadow - 01 Straight Fire",
+    "shades": 3,
+    "price": 499,
+    "mrp": "399",
+    "club_price": "919",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "exclusive",
+    "images": [ "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-High-Key-Chrome-Eyeshadow-01-Straight-Fire.jpg?v=1719893573",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-High-Key-Chrome-Eyeshadow-01-Straight-Fire-3.jpg?v=1719893581",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-High-Key-Chrome-Eyeshadow-01-Straight-Fire-4.jpg?v=1719893585"
+  ]
+  },
+  {
+    "name": "SUGAR Play Main Character SPF15+ Mattifying Compact",
+    "shades": 3,
+    "price": 599,
+    "mrp": "479",
+    "club_price": "319",
+    "rating": "5.0",
+    "user_rated": 1,
+    "category": "exclusive",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Main-Character-SPF15-Mattifying-Compact.jpg?v=1719893792&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Main-Character-SPF15-Mattifying-Compact-3.jpg?v=1719893801",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/SUGAR-Play-Main-Character-SPF15-Mattifying-Compact-4.jpg?v=1719893805"
+  ]
+  },
+  {
+    "name": "Citrus Got Real SPF30 Sunscreen",
+    "shades": 0,
+    "price": 425,
+    "mrp": "340",
+    "club_price": "319",
+    "rating": "4.7",
+    "user_rated": 81,
+    "category": "skincare",
+    "images": ["https://cdn.shopify.com/s/files/1/0906/2558/files/Citrus-Got-Real-SPF30-Sunscreen.jpg?v=1719867202",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Citrus-Got-Real-SPF30-Sunscreen-2.jpg?v=1719867206",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Citrus-Got-Real-SPF30-Sunscreen-3.jpg?v=1719867209"
+  ]
+  },
+  {
+    "name": "Swipe Right Cleansing Water",
+    "shades": 0,
+    "price": 449,
+    "mrp": "359",
+    "club_price": "319",
+    "rating": "4.8",
+    "user_rated": 59,
+    "category": "skincare",
+    "images": ["https://cdn.shopify.com/s/files/1/0906/2558/files/Swipe-Right-Cleansing-Water_da83328e-c91c-4e05-b5db-594ecf05ff51.jpg?v=1719842208",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Swipe-Right-Cleansing-Water-2.jpg?v=1719842213",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Swipe-Right-Cleansing-Water-3.jpg?v=1719842217"
+  ]
+  },
+  {
+    "name": "Aquaholic Hyaluronic Serum",
+    "shades": 0,
+    "price": 449,
+    "mrp": "339",
+    "club_price": "319",
+    "rating": "4.8",
+    "user_rated": 59,
+    "category": "skincare",
+    "images": ["https://in.sugarcosmetics.com/_next/image?url=https://cdn.shopify.com/s/files/1/0906/2558/files/Aquaholic-Hyaluronic-Serum.jpg?v=1719869378&w=256&q=75",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Aquaholic-Hyaluronic-Serum-2.jpg?v=1719869382",
+    "https://cdn.shopify.com/s/files/1/0906/2558/files/Aquaholic-Hyaluronic-Serum-3.jpg?v=1719869386"
+  ]
+  }
+]
+
+
+

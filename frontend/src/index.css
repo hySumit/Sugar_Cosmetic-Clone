@@ -1,0 +1,333 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.login-right {
+    background-image: url("./assets/white-paper-is-folded-half-other-is-white_994023-42806.avif");
+    background-size: cover; 
+    background-position: center; 
+
+  }
+
+  .nav-links{
+    height: 3rem;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+  }
+  .nav-links li a{
+    padding: 9px 25px;
+  }
+
+
+  .nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li {
+  position: relative;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  /* padding: 10px; */
+  display: inline-block;
+  position: relative;
+}
+
+.nav-links a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 90%;
+  height: 2px; /* Adjust the height of the underline */
+  background-color: rgb(223, 14, 118); /* Adjust the color of the underline */
+  transform: scaleX(0);
+  transform-origin: bottom left;
+  transition: transform 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.mega-links {
+  list-style: none;
+  padding: 10px;
+}
+
+.mega-links li {
+  display: flex;
+  align-items: center;
+  color: gray;
+  margin-left: 0;
+}
+
+.mega-links li::before {
+  content: "•"; /* Use a bullet character */
+  margin-right: -14px; /* Adjust the space between bullet and text */
+  color: gray;
+}
+
+.mega-links li a {
+  font-size: 12px;
+  color: gray;
+  text-decoration: none;
+}
+
+
+
+.content{
+  /* border-radius: 10px; */
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.mega-box{
+  width: 40em;
+  position: absolute;
+  top: 45px;
+  display: none;
+  z-index: 1000;
+}
+
+.lips:hover .mega-box{
+  display: block !important;
+}
+
+
+/* Position the indicators outside the image */
+/* .carousel .control-dots {
+  /* bottom: -25px;
+  background-color: black; */
+
+
+/* Style for the indicators */
+.carousel .control-dots .dot {
+  background: rgba(0, 0, 0, 0.678); /* Default background */
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin: 0 5px; /* Adjust spacing between dots */
+  transition: background 0.3s, width 0.3s; /* Smooth transition */
+}
+
+/* Style for the active indicator */
+.carousel .control-dots .dot.selected {
+  background: black; /* Active background color */
+  width: 20px; /* Active width */
+  border-radius: 10px; /* Keep the active indicator rounded */
+}
+
+
+/* Home/// */
+
+.crousel-parent{
+  background-image: url("./assets/home-background-pink.jpg");
+  background-size: cover; 
+  background-position: center; 
+  margin-top: 10vh;
+  height: 550px;
+}
+
+
+.slick-slide > div{
+  margin: 0 10px;
+}
+
+
+.stylish-text-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stylish-title {
+  margin-top: 5vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 19px;
+  position: relative;
+  text-align: center;
+}
+
+.stylish-title::before, .stylish-title::after {
+  content: "";
+  height: 2px;
+  width: 50px;
+  background-color: #FC2779;
+  display: block;
+}
+
+.stylish-title::before {
+  margin-right: 1rem;
+}
+
+.stylish-title::after {
+  margin-left: 1rem;
+}
+
+.btn{
+  line-height: 0.4rem;
+}
+
+.buttons{
+  position: absolute;
+  bottom: -10px;
+}
+.icons{
+   color: black !important;
+}
+
+.accordion-item {
+  /* border: 1px solid #ddd; */
+  margin: 10px 0;
+}
+
+.accordion-title {
+  background-color: #f1f1f1;
+  cursor: pointer;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.accordion-title.open {
+  background-color: #444242;
+  color: #fff;
+}
+
+.accordion-title span {
+  font-size: 20px;
+  color: #FC2779;
+}
+
+.accordion-content {
+  padding: 15px;
+  background-color: #F2F2F2;
+  border-top: 1px solid #ddd;
+  color: #a5a5a5;
+  line-height: 2rem;
+}
+
+.hr1{
+  border-top: 2px solid #E5E5E5 ;
+  width: 95%;
+  margin: auto;
+}
+
+.disc{
+  list-style: disc;
+}
+
+
+
+.navigation{
+  text-align: left;
+}
+
+/* .SingleProductPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.SingleProductCard {
+  display: flex;
+  width: 80%;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-pro-image {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-right: 20px;
+}
+
+.thumbnail {
+  width: 70px;
+  /* height: 100px; */
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.thumbnail:hover {
+  transform: scale(1.1);
+}
+
+.preview-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.main-image {
+  max-width: 300px;
+  max-height: 300px;
+  object-fit: contain;
+}
+
+.details-of-product {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.product-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.shades {
+  color: #888;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.rating {
+  color: #f39c12;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+
+
